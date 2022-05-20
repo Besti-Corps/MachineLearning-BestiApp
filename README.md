@@ -1,9 +1,9 @@
 # MachineLearning-BestiApp
 Machine Learning Path Bangkit
 
-Dataset kaggle [link]('https://www.kaggle.com/datasets/mostafaabla/garbage-classification')
+Dataset kaggle [link](https://www.kaggle.com/datasets/mostafaabla/garbage-classification/ "ke kaggle Garbage Classification")
 
-Dataset [link]('https://drive.google.com/drive/folders/1JRO5Z1FO4yvRypi4pMbIAdnZVBK3H7XD?usp=sharing')
+Dataset [link](https://drive.google.com/drive/folders/1JRO5Z1FO4yvRypi4pMbIAdnZVBK3H7XD?usp=sharing/ "ke dataset drive")
 
 Table:  Dataset
 | __No__ |   __Classification__    |   __Files__   | 
