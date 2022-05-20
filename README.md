@@ -1,7 +1,9 @@
 # MachineLearning-BestiApp
 Machine Learning Path Bangkit
 
-Dataset [link]([https://drive.google.com/drive/folders/1JRO5Z1FO4yvRypi4pMbIAdnZVBK3H7XD?usp=sharing/])
+Dataset kaggle [link]('https://www.kaggle.com/datasets/mostafaabla/garbage-classification')
+
+Dataset [link]('https://drive.google.com/drive/folders/1JRO5Z1FO4yvRypi4pMbIAdnZVBK3H7XD?usp=sharing')
 
 Table:  Dataset
 | __No__ |   __Classification__    |   __Files__   | 
@@ -18,5 +20,3 @@ Table:  Dataset
 | 10 | clothes       |   645     |
 | 11 | paper         |   645     |
 | 12 | shoes         |   647     |
-
-
